@@ -37,6 +37,9 @@ const server = http.createServer( function( request,response ) {
     case '/particles.min.js':
       sendFile( response, 'particles.min.js' )
       break
+    case '/jquery.parallax.js':
+      sendFile( response, 'jquery.parallax.js' )
+      break
     default:
       response.end( '404 Error: File Not Found' )
   }
