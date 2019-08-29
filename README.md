@@ -67,10 +67,13 @@ https://a1-heartkiiier.glitch.me
 
 This project shows basic information about myself.
 
+### Technical Achievements
+- **Translate SCSS to CSS**: In order to use one of the animations that I found on speckyboy.com/css-background-effects/,
+
 ### Design Achievements
 - **Used jQuery, CSS animations & Bootstrap**: Included the use of jQuery, CSS animations, and Bootstrap to enhance the design of the webpage.
 - **Design Templates**: For the first part of the page, I incorporated some elements from tooplate.com, such as the moving particles and the buttons.
-- **CSS Animation**: I used the CSS animation from codepen.io/vajkri/pen/NxzZwL, for the chart, and modified it so that it would show me what I want. I also used the 
+- **CSS Animation**: I used the CSS animation from codepen.io/vajkri/pen/NxzZwL, for the chart, and modified it so that it would show me what I want. I also used the CSS animation from speckyboy.com/css-background-effects/ for the animated gradient background.
 
 
 
