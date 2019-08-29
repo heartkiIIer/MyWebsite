@@ -40,6 +40,24 @@ const server = http.createServer( function( request,response ) {
     case '/jquery.parallax.js':
       sendFile( response, 'jquery.parallax.js' )
       break
+    case '/FontAwesome.otf':
+      sendFile( response, 'FontAwesome.otf' )
+      break
+    case '/fontawesome-webfont.eot':
+      sendFile( response, 'fontawesome-webfont.eot' )
+      break
+    case '/fontawesome-webfont.svg':
+      sendFile( response, 'fontawesome-webfont.svg' )
+      break
+    case '/fontawesome-webfont.ttf':
+      sendFile( response, 'fontawesome-webfont.ttf' )
+      break
+    case '/fontawesome-webfont.woff':
+      sendFile( response, 'fontawesome-webfont.woff' )
+      break
+    case '/fontawesome-webfont.woff2':
+      sendFile( response, 'fontawesome-webfont.woff2' )
+      break
     default:
       response.end( '404 Error: File Not Found' )
   }
