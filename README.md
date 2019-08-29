@@ -62,16 +62,15 @@ If you need a Git/GitHub refreseher, see [GitHub Bootcamp](https://help.github.c
 Sample Readme (delete the above when you're ready to submit, and modify the below so with your links and descriptions)
 ---
 
-Charlie Roberts
-http://a1-charlieroberts.glitch.me
+Shine Lin Thant
+https://a1-heartkiiier.glitch.me
 
-This project shows ...
-
-## Technical Achievements
-- **Proved P=NP**: Using a combination of...
-- **Solved AI**: ...
+This project shows basic information about myself.
 
 ### Design Achievements
-- **Re-vamped Apple's Design Philosophy**: Shown in `style.css`, the code...
+- **Used jQuery, CSS animations & Bootstrap**: Included the use of jQuery, CSS animations, and Bootstrap to enhance the design of the webpage.
+- **Design Templates**: For the first part of the page, I incorporated some elements from tooplate.com, such as the moving particles and the buttons.
+- **CSS Animation**: I used the CSS animation from codepen.io/vajkri/pen/NxzZwL, for the chart, and modified it so that it would show me what I want. I also used the 
+
 
 
