@@ -40,23 +40,23 @@ const server = http.createServer( function( request,response ) {
     case '/jquery.parallax.js':
       sendFile( response, 'jquery.parallax.js' )
       break
-    case '/FontAwesome.otf':
-      sendFile( response, 'FontAwesome.otf' )
+    case '/assets/FontAwesome.otf':
+      sendFile( response, 'assets/FontAwesome.otf' )
       break
-    case '/fontawesome-webfont.eot':
-      sendFile( response, 'fontawesome-webfont.eot' )
+    case '/assets/fontawesome-webfont.eot':
+      sendFile( response, 'assets/ontawesome-webfont.eot' )
       break
-    case '/fontawesome-webfont.svg':
-      sendFile( response, 'fontawesome-webfont.svg' )
+    case '/assets/fontawesome-webfont.svg':
+      sendFile( response, 'assets/fontawesome-webfont.svg' )
       break
-    case '/fontawesome-webfont.ttf':
-      sendFile( response, 'fontawesome-webfont.ttf' )
+    case '/assets/fontawesome-webfont.ttf':
+      sendFile( response, 'assets/fontawesome-webfont.ttf' )
       break
-    case '/fontawesome-webfont.woff':
-      sendFile( response, 'fontawesome-webfont.woff' )
+    case 'fontawesome-webfont.woff':
+      sendFile( response, 'assets/fontawesome-webfont.woff' )
       break
-    case '/fontawesome-webfont.woff2':
-      sendFile( response, 'fontawesome-webfont.woff2' )
+    case 'fontawesome-webfont.woff2':
+      sendFile( response, 'https://cdn.glitch.com/c430d19e-e8ff-4c75-8fa6-7eb8f1506bc2%2Ffontawesome-webfont.woff2?v=1567056436974' )
       break
     default:
       response.end( '404 Error: File Not Found' )
