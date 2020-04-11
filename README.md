@@ -2,7 +2,7 @@ Assignment 1 - Hello World: Basic Deployment w/ Git, GitHub, Glitch
 ===
 
 Shine Lin Thant
-https://a1-heartkiiier.glitch.me
+https://shinelinthant.glitch.me
 
 This project shows basic information about myself.
 
